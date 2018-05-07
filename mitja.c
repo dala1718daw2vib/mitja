@@ -12,7 +12,7 @@ int main() {
  char consulta='s'; 
  
 while(consulta=='s') { 
- printf("DÃ²na la segÃ¼ent dada: "); 
+ printf("DÃ²na la segÃ¼ent dada : "); 
  scanf("%f",&nou_valor); 
  suma=suma+nou_valor; 
  numero_repeticions=numero_repeticions+1; 
